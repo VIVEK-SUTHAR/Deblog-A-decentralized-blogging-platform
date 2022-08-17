@@ -13,7 +13,8 @@
 
 ## Tech Stack
 
-**Front-End:**
+
+**Front-End:** 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=black)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -23,16 +24,20 @@
 
 ## Deployed to
 
-- **Front-end:** Netlify
+- <h2>Front-end : Netlify </h2>
 
-- **Smart-contract:** Polygon Testnet(Matic Mumbai)
+- <h2>Smart-Contract : <img src="https://cryptologos.cc/logos/polygon-matic-logo.svg?v=023" height="22" width="22"/> Polygon Testnet </h2>
+
+## Decentralized Storage:
+
+- <h2>File-Coin(web3.Storage)  <img src="https://cryptologos.cc/logos/filecoin-fil-logo.svg?v=023" height="22" width="22"/></h2>
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/VIVEK-SUTHAR/DeBlog.git
+  git clone https://github.com/VIVEK-SUTHAR/Deblog-A-decentralized-blogging-platform.git
 ```
 
 Go to the project directory
