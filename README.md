@@ -67,6 +67,8 @@ To run this project, you will need to add the following environment variables to
 
 - [@VIVEK-SUTHAR](https://www.github.com/VIVEK-SUTHAR)
 - [@sahilkakwani](https://www.github.com/sahilkakwani)
+- [@umangp31](https://github.com/umangp31)
+- [@Harsh2220](https://github.com/Harsh2220)
 
 ## Feedback
 
