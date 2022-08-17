@@ -1,9 +1,9 @@
-
 # DeBlog
 
 ## DeBlog helps you create blogs and store them on a decentralised blockchain within a span of seconds.
 
 ## Features:
+
 - **Read All Blogs**
 - **Write Your own Blog**
 - **Tip To Writer Directly**
@@ -11,17 +11,14 @@
 - **NO Payment Just Pay Gas-fees**
 - **Permanent Data Storage as Its on Block-chain**
 
-
-
-
 ## Tech Stack
 
-**Front-End:** 
+**Front-End:**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-    ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=black)
-    ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-    ![Ethers JS](https://img.shields.io/badge/EthersJS-pink?style=for-the-badge&logo=javascript&logoColor=black)
-    
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=black)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Ethers JS](https://img.shields.io/badge/EthersJS-pink?style=for-the-badge&logo=javascript&logoColor=black)
+
 **Smart Contract:** ![Solidity](https://img.shields.io/badge/solidity-%2338B2AC.svg?style=for-the-badge&logo=solidity&logoColor=black)
 
 ## Deployed to
@@ -29,7 +26,6 @@
 - **Front-end:** Netlify
 
 - **Smart-contract:** Polygon Testnet(Matic Mumbai)
-
 
 ## Run Locally
 
@@ -57,10 +53,9 @@ Start the server
 
 ```bash
   npm run start
-  or 
+  or
   yarn dev
 ```
-
 
 ## Environment Variables
 
@@ -73,16 +68,14 @@ To run this project, you will need to add the following environment variables to
 - [@VIVEK-SUTHAR](https://www.github.com/VIVEK-SUTHAR)
 - [@sahilkakwani](https://www.github.com/sahilkakwani)
 
-
 ## Feedback
 
 If you have any feedback, please reach out to us at vivek@hackclubsvit.co or sahil@hackclubsvit.co
 
-
 ## Screenshots
 
 ![Landing Page](https://ipfs.filebase.io/ipfs/QmVrvkLehb5YB4FWgoWfbfqCRUfgT3uGq82wM7aSF9RmxU)
-![Main Page](https://ipfs.filebase.io/ipfs/QmQCYkGwtCEPoiGGp16v6gMDZhn3nVsPd4LE8ABHzD8E82)
-![blog Page](https://ipfs.filebase.io/ipfs/QmVNaizuQo3hSEFqxwbHagMm9JsLgA3DMAtwqAPeQHx84U)
-![Write blog](https://ipfs.filebase.io/ipfs/QmaUtWktT8WtVTmaNWjTN6i8fzjfdrxvaKYtyiXNMFb36E)
-![Tip The Writer](https://ipfs.filebase.io/ipfs/QmRTm6RjRaE6auDNumTQck7m9xpFzmes4q2d8VDFFk7vrd)
+![Main Page](https://ipfs.filebase.io/ipfs/QmdSf2EMNXmTEnLksBhwj9cT8iHGa3baR8U8mDojLyzpsy)
+![blog Page](https://ipfs.filebase.io/ipfs/QmTGahRUpr1RgQiANwELymDfyqUnBp1Yc3qY6Bq8812iBE)
+![Write blog](https://ipfs.filebase.io/ipfs/QmbXBd6Ygu1zSzQKdmmZAJijrrZ5MHVZaqQe4reACC5hyD)
+![Tip The Writer](https://ipfs.filebase.io/ipfs/QmcsVVQvNnzhtV5eLa65Q5GAhbD9WUF7jgaFJtNUxSY8ja)
